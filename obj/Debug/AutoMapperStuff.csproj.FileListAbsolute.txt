@@ -4,3 +4,8 @@ C:\Users\Itsu\Documents\My Dropbox\Projects\AutoMapperStuff\bin\Debug\AutoMapper
 C:\Users\Itsu\Documents\My Dropbox\Projects\AutoMapperStuff\bin\Debug\AutoMapper.dll
 C:\Users\Itsu\Documents\My Dropbox\Projects\AutoMapperStuff\obj\Debug\AutoMapperStuff.exe
 C:\Users\Itsu\Documents\My Dropbox\Projects\AutoMapperStuff\obj\Debug\AutoMapperStuff.pdb
+C:\Projects\Tikal repository\AutoMapperStuff\obj\Debug\AutoMapperStuff.exe
+C:\Projects\Tikal repository\AutoMapperStuff\obj\Debug\AutoMapperStuff.pdb
+C:\Projects\Tikal repository\AutoMapperStuff\bin\Debug\AutoMapperStuff.exe
+C:\Projects\Tikal repository\AutoMapperStuff\bin\Debug\AutoMapperStuff.pdb
+C:\Projects\Tikal repository\AutoMapperStuff\obj\Debug\ResolveAssemblyReference.cache
