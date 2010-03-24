@@ -17,8 +17,8 @@ namespace AutoMapperStuff
             TaskDto taskdto1 = MapManual(task);
 
 
-            //InitMappins();
-            InitCustomMappins();
+            InitMappins();
+            //InitCustomMappins();
             TaskDto taskdto = Mapper.Map<Task, TaskDto>(task);
         }
 
